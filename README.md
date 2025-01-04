@@ -1,6 +1,6 @@
 ## About this Project
 
-This repository contains an Excel-based tool designed to help undergraduate students manage their finances effectively. Built with VBA (Visual Basic for Applications), the tool provides a wide range of features for financial planning, including real-time currency conversion, expense tracking, personalized financial advice, and goal-setting functionalities.
+This repository contains an Excel-based tool designed to help undergraduate students manage their finances effectively. Built with Excel VBA (Visual Basic for Applications), the tool provides a wide range of features for financial planning, including real-time currency conversion, expense tracking, personalized financial advice, and goal-setting functionalities.
 
 ---
 
